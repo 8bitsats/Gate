@@ -1,3 +1,5 @@
+# I worked on this with William and the other collaborators. As Solana has no pre built anything for any other devs to use.
+
 
 # Solana dApp Scaffold Next
 
